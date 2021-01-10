@@ -1,0 +1,6 @@
+From what I can tell, these tests are stable and from reading the code
+and than running it, it seems to run fine. I'm probably not unnderstanding the question.
+
+I don't remember what cahnges have been made to this version of Employee Manager, and I don't remember where to find it either.
+
+Honestly I'm not sure what I would change, my brain is kinda fried and I just want to turn this in.
